@@ -13,5 +13,5 @@ Features of this web app includes:
 
 <details>
   <summary>Finance: Homepage</summary>
-  <img src="![image](https://user-images.githubusercontent.com/68268595/113548489-33614800-9622-11eb-95ea-880aadf3fb8a.png)" name="homepage">
+  <img src="![homepage](https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png)" name="homepage">
 </details>
