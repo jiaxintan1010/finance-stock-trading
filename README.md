@@ -3,9 +3,7 @@ Finance is a virtual online stock trading platform developed using flask framewo
 Languages used: Python, HTML, CSS  
 API used: IEX Cloud API  
 
-
 Features of this web app includes:
-
 * Allows user to register for an account and sign in
 * Allows user to view and manage portfolios of stocks  
   (e.g. stocks owned, units owned, current share price, total value of each holding, user's cash balance, profit loss to date)
