@@ -14,52 +14,52 @@ Features of this web app includes:
 ## Website Images ##
 <details>
   <summary>Finance: Homepage</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113576952-0da06700-9653-11eb-85ce-609f05d85bd0.png" name="homepage-1">
-    <img src="https://user-images.githubusercontent.com/68268595/113576996-20b33700-9653-11eb-8701-956ba19242df.png" name="homepage-2">
-    <img src="https://user-images.githubusercontent.com/68268595/113577034-332d7080-9653-11eb-86b1-051d6ccbfcb5.png" name="homepage-3">
-    <img src="https://user-images.githubusercontent.com/68268595/113577055-3f193280-9653-11eb-8622-90f203d34400.png" name="homepage-4">
-    <img src="https://user-images.githubusercontent.com/68268595/113577060-417b8c80-9653-11eb-885c-31ba4e29bb0e.png" name="homepage-5">
-    <img src="https://user-images.githubusercontent.com/68268595/113577067-42acb980-9653-11eb-9cf3-327a3e65ed31.png" name="homepage-6">
+    <img src="https://user-images.githubusercontent.com/68268595/113578426-653fd200-9655-11eb-8e80-bc12229284f6.png" name="homepage-1-img">
+    <img src="https://user-images.githubusercontent.com/68268595/113578462-6f61d080-9655-11eb-9887-358fb32d7ddf.png" name="homepage-2-img">
+    <img src="https://user-images.githubusercontent.com/68268595/113578501-78eb3880-9655-11eb-9bae-c6387a98afd4.png" name="homepage-3-img">
+    <img src="https://user-images.githubusercontent.com/68268595/113578507-7be62900-9655-11eb-9eeb-d1471ee39ca0.png" name="homepage-4-img">
+    <img src="https://user-images.githubusercontent.com/68268595/113578519-7ee11980-9655-11eb-84b1-8cef51c9eec5.png" name="homepage-5-img">
+    <img src="https://user-images.githubusercontent.com/68268595/113578533-83a5cd80-9655-11eb-9748-0fa9bb7a7dd5.png" name="homepage-6-img">
 </details>
 
 <details>
   <summary>Finance: Register</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113578593-9f10d880-9655-11eb-8790-aca45ffdd188.png" name="register-img">
 </details>
 
 <details>
   <summary>Finance: Login</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113578608-a7691380-9655-11eb-8bb6-90f3c12a2035.png" name="login-img">
 </details>
 
 <details>
   <summary>Finance: Portfolio</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113579590-1abf5500-9657-11eb-923e-7cca93653692.png" name="portfolio-img">
 </details>
 
 <details>
   <summary>Finance: Quote</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113579606-21e66300-9657-11eb-8ff2-20487c2b53cd.png" name="quote-img">
 </details>
 
 <details>
   <summary>Finance: Quoted</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113579626-2743ad80-9657-11eb-8b96-a36876adbc21.png" name="quoted-img">
 </details>
 
 <details>
   <summary>Finance: Buy</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113579651-2f035200-9657-11eb-941b-c92e27233756.png" name="buy-img">
 </details>
 
 <details>
   <summary>Finance: Sell</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113579715-43474f00-9657-11eb-81d2-b399563888a8.png" name="sell-img">
 </details>
 
 <details>
   <summary>Finance: History</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113579741-49d5c680-9657-11eb-87cd-ff44cf1bad02.png" name="history-img">
 </details>
 
 ## Video Tour ##
