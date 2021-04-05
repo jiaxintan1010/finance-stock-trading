@@ -14,3 +14,7 @@ Features of this web app includes:
 
 ![homepage](https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png)
 
+<details>
+  <summary>The title of the image group</summary><details>
+  <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
