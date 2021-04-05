@@ -12,6 +12,6 @@ Features of this web app includes:
 * Allows user to view all transaction history for every buy and sell
 
 <details>
-  <summary>Finance: Homepage</summary>
+  <summary>Finance: Homepage</summary><details>
   <img src="![homepage](https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png)" name="homepage">
 </details>
