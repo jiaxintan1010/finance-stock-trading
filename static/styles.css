@@ -1,0 +1,274 @@
+/************************html*************************/
+
+body {
+    background-color: #ffffff;
+    color: #072340;
+    font-family: "Montserrat", sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: "Montserrat Black", sans-serif;
+}
+
+p {
+    color: #8f8f8f;
+    line-height: 2;
+    margin: 1rem 0rem;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+/* navbar main footer */
+.container-fluid {
+    padding: 2rem 5rem;
+}
+
+/* Decrease padding when screen size is small */
+@media (max-width: 600px) {
+    .container-fluid {
+        padding: 1rem 0.5rem;
+    }
+}
+
+
+/************************main*************************/
+
+main {
+    text-align: center;
+}
+
+main-container {
+    flex: 3;
+}
+
+main .form-control {
+    /* Center form controls */
+    display: inline-block;
+
+    /* Override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+main img {
+    /* Constrain images on small screens */
+    max-width: 100%;
+}
+
+main .table-container {
+    overflow: auto;
+}
+
+
+/************************layout.html*************************/
+
+/* Navbar */
+.navbar {
+    padding: 0rem;
+    flex: 1;
+}
+
+.navbar-logo {
+    width: 10rem;
+}
+
+.navbar-brand {
+    margin: 0rem;
+}
+
+.nav-item {
+    margin: 0.5rem 1.5rem 0rem;
+}
+
+/* Modal Login*/
+.modal-header {
+    background-color: #072340;
+    color: #ffffff;
+    padding: 2rem 0rem;
+    position: relative;
+    justify-content: center;
+}
+
+.modal-header .modal-title {
+    position: absolute;
+}
+
+.modal-header .close-btn {
+    position: absolute;
+    right: 2rem;
+}
+
+.modal-body {
+    padding: 0rem 5rem;
+}
+
+.modal-body .form-group {
+    margin: 2rem 0rem;
+}
+
+.modal-body span {
+    position: relative;
+    padding: 0rem 1.5rem;
+}
+
+.modal-body .icon {
+    position: absolute;
+    top: 0.8rem;
+    left: 1.2rem;
+}
+
+/* Footer */
+.footer {
+    padding: 3rem 0rem;
+    background-color: #072340;
+    flex: 1;
+}
+
+
+/************************login.html*************************/
+
+/* Header */
+.header {
+    text-align: left;
+    margin: 5rem 0rem;
+    position: relative;
+}
+
+.header-title {
+    margin-bottom: 1rem;
+}
+
+.header .btn {
+    background-color: #072340;
+    color: #ffffff;
+    position: absolute;
+    left: 0rem;
+}
+
+@media (max-width: 1238px) {
+    .header .btn {
+        margin-bottom: 3rem;
+        position: relative;
+        width: 100%;
+    }
+}
+
+/* Features */
+.feature-1, .feature-2, .feature-3 {
+    margin: 10rem 2rem;
+    text-align: left;
+}
+
+.description {
+    margin: 5rem 0rem;
+}
+
+.feature-4, .features {
+    margin: 10rem 2rem;
+    text-align: center;
+}
+
+.feature-4 h1{
+    margin-bottom: 1rem;
+}
+
+.feature-4 .btn {
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 1238px) {
+    .feature-4 .btn {
+        width: 100%;
+    }
+}
+
+.icon {
+    color: #28527a;
+    margin-bottom: 2rem;
+}
+
+
+/************************register.html*************************/
+
+.register-form {
+    width: 30rem;
+    margin: 0rem auto 2rem;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.register-form .card-header {
+    background-color: #072340;
+    color: #ffffff;
+    padding: 1rem 0rem;
+}
+
+.register-form .card-body {
+    background-color: #f0f0f0;
+    padding: 2rem 4rem;
+}
+
+.register-form .form-group {
+    margin-bottom: 2rem;
+}
+
+.register-form span {
+    position: relative;
+    width: 3rem;
+}
+
+.register-form .icon {
+    position: absolute;
+    top: 0.8rem;
+    left: 1.1rem;
+}
+
+.register-form-link {
+    text-decoration: none;
+}
+
+.register-form-link:hover {
+    text-decoration: underline;
+}
+
+.register-form-text {
+    margin-bottom: 2rem;
+}
+
+
+/************************quote.html*************************/
+
+.quote-logo {
+    width: 4rem;
+    border-radius: 100%;
+    margin: 0rem 1rem;
+}
+
+@media (max-width: 425px) {
+    .quote-logo {
+        width: 2rem;
+    }
+}
+
+.logo-container {
+    padding-bottom: 2rem;
+    overflow: auto;
+}
+
+.quote-form-link {
+    text-decoration: none;
+}
+
+.quote-form-link:hover {
+    text-decoration: underline;
+}
+
+
+/************************sell.html*************************/
+
+select {
+    text-align-last: center;
+}

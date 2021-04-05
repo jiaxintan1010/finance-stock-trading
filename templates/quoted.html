@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+
+<div class="jumbotron jumbotron-fluid bg-light p-5">
+    <h1>{{ stock["name"] }} | {{ stock["symbol"] }}</h1>
+    <p class="text-secondary">Current stock price: {{ stock["price"] | usd}}</p>
+</div>
+
+{% endblock %}
+

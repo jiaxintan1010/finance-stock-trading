@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+
+<div class="quote-form">
+
+    <form action="/quote" method="post">
+        <div class="form-group input-group p-2 bg-light rounded-pill shadow-sm w-50 m-auto">
+
+            <input autocomplete="off" autofocus class="form-control border-0 bg-light" name="symbol" placeholder="Stock's symbol (e.g. AAPL, NFLX)"
+            aria-describedby="quote-btn-addon" required="required" type="text">
+
+            <div class="input-group-append">
+                <button id="quote-btn-addon" class="btn text-primary" type="submit" ><i class="fa fa-search"></i></button>
+            </div>
+
+        </div>
+    </form>
+
+    <div class="text-center text-muted small my-5">
+        Not sure what is the stock's ticker symbol?
+        Visit <a href="https://stockanalysis.com/stocks/" class="quote-form-link">here</a> for all stock ticker symbols.
+    </div>
+
+</div>
+
+<div class="logo-container">
+    <img class="quote-logo" src="static/stock-logo/21.png" alt="stock-logo">
+    <img class="quote-logo" src="static/stock-logo/22.png" alt="stock-logo">
+    <img class="quote-logo" src="static/stock-logo/23.png" alt="stock-logo">
+    <img class="quote-logo" src="static/stock-logo/24.png" alt="stock-logo">
+</div>
+
+<div class="logo-container">
+    <img class="quote-logo" src="static/stock-logo/25.png" alt="stock-logo">
+    <img class="quote-logo" src="static/stock-logo/26.png" alt="stock-logo">
+    <img class="quote-logo" src="static/stock-logo/27.png" alt="stock-logo">
+    <img class="quote-logo" src="static/stock-logo/28.png" alt="stock-logo">
+</div>
+
+{% endblock %}

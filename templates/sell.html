@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sell
+{% endblock %}
+
+{% block main %}
+
+<div class="card text-center w-75 mx-auto mb-4">
+
+    <div class="card-header mb-4">
+        <h3>Sell</h3>
+    </div>
+
+    <div class="card-body mb-4">
+        <form action="/sell" method="post">
+
+            <div class="form-group">
+                <select class="form-select form-select-lg p-2 bg-light rounded-pill shadow-sm w-50 mx-auto mb-4 text-center" name="symbol">
+                    <option class="text-muted" disabled selected value="">Choose a stock...</option>
+                    {% for row in rows %}
+                        <option value="{{ row.symbol }}"> {{row.symbol}} ({{row.shares}} units) </option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input autocomplete="off" class="form-control form-control-lg p-2 bg-light rounded-pill shadow-sm w-50 mb-4 text-center"
+                name="shares" placeholder="Amount" required="required" type="text">
+            </div>
+
+            <div class="form-group">
+                <button class="btn btn-warning btn-lg rounded-pill w-50" type="submit">Sell</button>
+            </div>
+
+        </form>
+    </div>
+
+    <div class="card-footer text-muted">
+        Enjoy commission-free trading on Finance.
+    </div>
+
+</div>
+
+{% endblock %}
+
