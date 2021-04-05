@@ -10,3 +10,8 @@ Features of this web app includes:
 * Allows user to check real stocks' prices by using IEX's API
 * Allows user to buy and sell stocks
 * Allows user to view all transaction history for every buy and sell
+
+<details>
+  <summary>Finance: Homepage</summary>
+  <img src="![image](https://user-images.githubusercontent.com/68268595/113548489-33614800-9622-11eb-95ea-880aadf3fb8a.png)" name="homepage">
+</details>
