@@ -1,6 +1,6 @@
 # Finance #  
 Finance is a virtual online stock trading platform developed using flask framework.  
-Languages used: Python, HTML, CSS  
+Languages used: Python, HTML, CSS, SQL
 API used: IEX Cloud API  
 
 Features of this web app includes:
