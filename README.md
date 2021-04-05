@@ -61,3 +61,6 @@ Features of this web app includes:
   <summary>Finance: History</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
 </details>
+
+## Video Tour ##
+![feature-1](https://user-images.githubusercontent.com/68268595/113557564-ce611e80-9630-11eb-95b8-f71f1d7b4071.gif)
