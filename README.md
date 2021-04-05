@@ -63,3 +63,22 @@ Features of this web app includes:
 </details>
 
 ## Video Tour ##
+<details>
+  <summary>Finance: Homepage</summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113639718-5f291000-96ac-11eb-99d7-f653f0683f99.gif" name="quoted-img">
+</details>
+
+<details>
+  <summary>Finance: Register & Login</summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113579626-2743ad80-9657-11eb-8b96-a36876adbc21.png" name="quoted-img">
+</details>
+
+<details>
+  <summary>Finance: Quote</summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113579626-2743ad80-9657-11eb-8b96-a36876adbc21.png" name="quoted-img">
+</details>
+
+<details>
+  <summary>Finance: Buy & Sell</summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113579626-2743ad80-9657-11eb-8b96-a36876adbc21.png" name="quoted-img">
+</details>
