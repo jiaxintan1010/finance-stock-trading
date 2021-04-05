@@ -14,12 +14,12 @@ Features of this web app includes:
 ## Website Images ##
 <details>
   <summary>Finance: Homepage</summary>
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113576952-0da06700-9653-11eb-85ce-609f05d85bd0.png" name="homepage-1">
+    <img src="https://user-images.githubusercontent.com/68268595/113576996-20b33700-9653-11eb-8701-956ba19242df.png" name="homepage-2">
+    <img src="https://user-images.githubusercontent.com/68268595/113577034-332d7080-9653-11eb-86b1-051d6ccbfcb5.png" name="homepage-3">
+    <img src="https://user-images.githubusercontent.com/68268595/113577055-3f193280-9653-11eb-8622-90f203d34400.png" name="homepage-4">
+    <img src="https://user-images.githubusercontent.com/68268595/113577060-417b8c80-9653-11eb-885c-31ba4e29bb0e.png" name="homepage-5">
+    <img src="https://user-images.githubusercontent.com/68268595/113577067-42acb980-9653-11eb-9cf3-327a3e65ed31.png" name="homepage-6">
 </details>
 
 <details>
