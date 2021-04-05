@@ -13,25 +13,51 @@ Features of this web app includes:
 
 ## Website Images ##
 <details>
-  <summary>Finance: Homepage
+  <summary>Finance: Homepage</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-  </summary>
-  <summary>Finance: Register
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-  </summary>
-  <summary>Finance: Login
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
-  </summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
+  <summary>Finance: Register</summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
+  <summary>Finance: Login</summary>
+    <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
   <summary>Finance: Portfolio</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
   <summary>Finance: Quote</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
   <summary>Finance: Quoted</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
   <summary>Finance: Buy</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
   <summary>Finance: Sell</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
+</details>
+
+<details>
   <summary>Finance: History</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113548781-bbdfe880-9622-11eb-9dab-8b19b93a60be.png" name="image-name">
 </details>
