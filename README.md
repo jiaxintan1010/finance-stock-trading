@@ -63,4 +63,4 @@ Features of this web app includes:
 </details>
 
 ## Video Tour ##
-https://user-images.githubusercontent.com/68268595/113718089-e1eab300-971e-11eb-87e3-154c69bf8319.gif
+![finance](https://user-images.githubusercontent.com/68268595/113718362-25452180-971f-11eb-89aa-6ed928427f6f.gif)
