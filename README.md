@@ -4,12 +4,12 @@ Languages used: Python, HTML, CSS, SQL
 API used: IEX Cloud API  
 
 Features of this website includes:
-* Allow users to register for an account and sign in
-* Allow users to view and manage portfolios of stocks  
+* Allow users to register for an account and sign in.
+* Allow users to view and manage portfolio of stocks virtually by querying data from SQL database.
   (e.g. stocks owned, units owned, current share price, total value of each holding, user's cash balance, profit loss to date)
-* Allow users to check real stocks’ prices by querying data from IEX Cloud using API.
+* Allow users to check real-time stocks’ prices by querying data from IEX Cloud using API.
 * Allow users to buy and sell stocks virtually and keep track of profit loss to date.
-* Allow users to view all transaction history for every buy and sell
+* Allow users to view all transaction history for every buy and sell.
 
 ## Website Images ##
 <details>
