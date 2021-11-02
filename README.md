@@ -11,6 +11,9 @@ Features of this website includes:
 * Allow users to buy and sell stocks virtually and keep track of profit loss to date.
 * Allow users to view all transaction history for every buy and sell.
 
+## Video Tour ##
+![finance](https://user-images.githubusercontent.com/68268595/113718362-25452180-971f-11eb-89aa-6ed928427f6f.gif)
+
 ## Website Images ##
 <details>
   <summary>Finance: Homepage</summary>
@@ -61,6 +64,3 @@ Features of this website includes:
   <summary>Finance: History</summary>
     <img src="https://user-images.githubusercontent.com/68268595/113579741-49d5c680-9657-11eb-87cd-ff44cf1bad02.png" name="history-img">
 </details>
-
-## Video Tour ##
-![finance](https://user-images.githubusercontent.com/68268595/113718362-25452180-971f-11eb-89aa-6ed928427f6f.gif)
